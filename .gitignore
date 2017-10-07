@@ -1,0 +1,7 @@
+build/templates
+data
+node_modules
+src
+package.json
+gulpfile.js
+gulp-paths.js
